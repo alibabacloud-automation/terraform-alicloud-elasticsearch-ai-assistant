@@ -1,7 +1,5 @@
 Alibaba Cloud Elasticsearch AI Assistant Terraform Module
 
-================================================ 
-
 # terraform-alicloud-elasticsearch-ai-assistant
 
 English | [简体中文](https://github.com/alibabacloud-automation/terraform-alicloud-elasticsearch-ai-assistant/blob/main/README-CN.md)

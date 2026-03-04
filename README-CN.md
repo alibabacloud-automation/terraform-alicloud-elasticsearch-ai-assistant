@@ -1,7 +1,5 @@
 阿里云 Elasticsearch 智能运维 AI 助手 Terraform 模块
 
-================================================ 
-
 # terraform-alicloud-elasticsearch-ai-assistant
 
 [English](https://github.com/alibabacloud-automation/terraform-alicloud-elasticsearch-ai-assistant/blob/main/README.md) | 简体中文
